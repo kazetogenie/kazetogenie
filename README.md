@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![kazetogenie logo](_c00d74bf-f6ba-496f-b6a0-5ecf2ce5ce09.jpeg)
+
 <!--
 **kazetogenie/kazetogenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
