@@ -16,7 +16,7 @@ Established in 06/06/2026
 
 ## どこへ行こうというのかね？
 
-とあるソフトウェアの長期開発とアクアリウム関連の執筆くらいですね。翻訳もできますが精力的には活動しないです。
+活動予定はとあるソフトウェアの長期開発とアクアリウム関連の執筆くらいですね。翻訳もできますが精力的には活動しないです。
 
 <!--
 **kazetogenie/kazetogenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
