@@ -6,7 +6,7 @@ Established in 06/06/2026
 
 ## Concepts
 
-[カゼトゲタナゴ](https://en.wikipedia.org/wiki/Kyushu_bitterling)から着想を得たもの。当時、日本淡水魚を飼育しておりカゼトゲタナゴの姿と言葉の美しさにあやかってというところです。
+[カゼトゲタナゴ](https://en.wikipedia.org/wiki/Kyushu_bitterling)から着想を得たもの。当時、日本淡水魚を飼育しておりウェブで見たカゼトゲタナゴの姿と言葉の美しさにあやかってというところです。
 
 * Kaze (Wind): 風を起こす、風に乗る、台風の目になる、停滞を吹き飛ばす 
 * Toge (Achieve) : トゲ→遂げる、踏破する、困難を突き破る
